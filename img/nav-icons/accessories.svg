@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="20" viewBox="0 0 14 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="speaker_icon" data-name="speaker icon" class="cls-1" d="M7,10a3,3,0,1,0,3,3A3,3,0,0,0,7,10Zm0,8a5,5,0,1,1,5-5A5,5,0,0,1,7,18ZM7,2A2,2,0,1,1,5,4,2.007,2.007,0,0,1,7,2Zm5-2H2A2.007,2.007,0,0,0,0,2V18a2,2,0,0,0,2,1.99L12,20a2,2,0,0,0,2-2V2A2,2,0,0,0,12,0Z"/>
+</svg>

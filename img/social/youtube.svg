@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="youtube_icon" data-name="youtube icon" class="cls-1" d="M12,6L6,2.73V9.26Zm4,4a2.005,2.005,0,0,1-2,2H2a2.006,2.006,0,0,1-2-2V2A2.006,2.006,0,0,1,2,0H14a2.006,2.006,0,0,1,2,2v8Z"/>
+</svg>

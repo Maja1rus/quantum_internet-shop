@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="19" viewBox="0 0 20 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9a72d;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="star_icon" data-name="star icon" class="cls-1" d="M10,15.27L16.179,19,14.54,11.97,20,7.24l-7.189-.61L10,0,7.189,6.63,0,7.24l5.46,4.73L3.82,19,10,15.27h0Z"/>
+</svg>

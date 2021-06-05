@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="16" viewBox="0 0 24 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="laptop_icon" data-name="laptop icon" class="cls-1" d="M4,2H20V12H4V2ZM20,14a2,2,0,0,0,1.989-2L22,2a2.006,2.006,0,0,0-2-2H4A2.006,2.006,0,0,0,2,2V12a2.006,2.006,0,0,0,2,2H0v2H24V14H20Z"/>
+</svg>

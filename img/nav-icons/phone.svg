@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="22" viewBox="0 0 13 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="phone_icon" data-name="phone icon" class="cls-1" d="M11,17H2V3h9V17ZM6.5,21A1.5,1.5,0,1,1,8,19.5,1.5,1.5,0,0,1,6.5,21Zm4-21h-8A2.5,2.5,0,0,0,0,2.5v17A2.5,2.5,0,0,0,2.5,22h8A2.5,2.5,0,0,0,13,19.5V2.5A2.5,2.5,0,0,0,10.5,0Z"/>
+</svg>

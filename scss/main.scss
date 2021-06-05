@@ -1,0 +1,56 @@
+//Переменные
+@import "./base/_variables.scss";
+
+//Mixins
+@import "./base/_mixins.scss";
+
+//Basa
+@import "./base/_base.scss";
+
+//Blocks
+@import "./blocks/_header.scss";
+
+@import "./blocks/_logo.scss";
+
+@import "./blocks/_header-select.scss";
+
+@import "./blocks/_header-link.scss";
+
+@import "./blocks/_header-nav.scss";
+
+@import "./blocks/_header-mega-menu-link.scss";
+
+@import "./blocks/_nav-dropdown.scss";
+
+@import "./blocks/_carousel.scss";
+
+@import "./blocks/_carousel-theme.scss";
+
+@import "./blocks/_promo-section.scss";
+
+@import "./blocks/_promo-sectiom-item.scss";
+
+@import "./blocks/_navigation.scss";
+
+@import "./blocks/_main.scss";
+
+@import "./blocks/_info-block.scss";
+
+@import "./blocks/_tabs.scss";
+
+@import "./blocks/_card.scss";
+
+@import "./blocks/_footer.scss";
+
+@import "./blocks/_nav-footer.scss";
+
+@import "./blocks/_social.scss";
+
+@import "./blocks/_copyright.scss";
+
+@import "./blocks/_payments.scss";
+
+
+
+// Шрифт
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');

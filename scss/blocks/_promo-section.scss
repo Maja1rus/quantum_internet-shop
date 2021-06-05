@@ -1,0 +1,13 @@
+.promo-section {
+
+}
+
+.promo-section__row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.promo-section__col {
+    max-width: 350px;
+    width: 350px;
+}

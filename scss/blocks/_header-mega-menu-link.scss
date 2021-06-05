@@ -1,0 +1,27 @@
+.header-mega-menu-link {
+    padding: 0 40px 0 30px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    color: #808080;
+
+    &:hover {
+        color: $blue;
+        svg {
+            fill:$blue;
+        }
+    }
+}
+
+.header-mega-menu-link__icon {
+    margin-right: 22px;
+    svg {
+        fill: #808080;
+    }
+}
+
+.header-mega-menu-link__text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+}
